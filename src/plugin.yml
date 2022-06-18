@@ -1,0 +1,8 @@
+name: vtags
+description:
+version: 1.0
+main: com.conutik.vtags.Main
+depend:
+  - TAB
+softdepend:
+  - TAB
